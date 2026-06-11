@@ -23,9 +23,5 @@ I led the project and built the fundamental analysis module. Strong Buy picks ou
 ## Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,react,nextjs,fastapi,postgres,mysql,docker,git,aws&perline=6" />
-</p>
-
-<p align="center">
-  LightGBM &nbsp;·&nbsp; scikit-learn &nbsp;·&nbsp; ALBERT &nbsp;·&nbsp; HuggingFace &nbsp;·&nbsp; Optuna
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,react,fastapi,mysql,docker,git,C++" />
 </p>
