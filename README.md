@@ -2,6 +2,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Computer+Science+%7C+AUS+%7C+December+2026;Building+AI+models+and+full-stack+applications;Open+to+work+in+UAE%2C+US%2C+Singapore" alt="header" />
 </div>
+
 ---
 
 CS grad from AUS, December 2026. I built a conflict of interest screening system for a real enterprise client and led ML models that outperformed market benchmarks by 12 percentage points over a 10-year backtest. I work on problems where the output actually has to be right.
