@@ -1,4 +1,4 @@
-<h1 align="center">Shaima Sajid Hameed</h1>
+<h1 align="center">Im Shaima</h1>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Computer+Science+%7C+AUS+%7C+December+2026;Building+AI+models+and+full-stack+applications;Open+to+work+in+UAE%2C+US%2C+Singapore" alt="header" />
