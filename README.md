@@ -12,5 +12,5 @@ My senior design project was **FinEdge**, a predictive AI platform for stock mar
 ## Languages I build with:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,react,fastapi,mysql,docker,git,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,docker,fastapi,mysql,git,cpp" />
 </p>
