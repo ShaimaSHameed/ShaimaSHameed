@@ -3,11 +3,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Final+year+Computer+Science+Student+at+AUS;Graduating+%3A+December+2026" alt="header" />
 </div>
 
-</n>
-I build AI models, full-stack web applications, and data systems. I care about whether what I build actually works for people, not just whether it runs.
+</n></n>
+I build full-stack applications and ML systems, backend to frontend.
 
-For my final year project I led **FinEdge**, a stock prediction platform that fuses three ML models across 237 US large-cap stocks into a single recommendation. Strong Buy picks outperformed the market by 12 percentage points over a 10-year backtest.
-
+My senior design project was **FinEdge**, a predictive AI platform for stock market analysis. It pulls live market data through APIs and runs three models, Fundamental, Technical, and Sentiment, across 237 US large-cap stocks. All three feed into a combined AI output that gives a Buy, Sell, or Hold recommendation.
 
 ## Languages I build with:
 
